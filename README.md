@@ -12,6 +12,11 @@ I hope your system is now free from lag! To make your PC ready for future use an
 2. **Thorium AVX Browser** (`.exe`)
    * **Purpose:** The World's Fastest Browser.
    * **Feature:** A specialized Chromium build optimized with AVX instructions. It uses significantly less RAM and processes web data faster than Chrome, Zen, Edge, Opera, Herond, or Brave.
+   ## ⚙️ After installing Thorium Browser, go to:
+      `chrome://flags/`
+Set the following options:
+- **Zero-copy rasterizer** → Enabled  
+- **Disable subframe process reuse** → Disabled 
 
 3. **ToolWiz Time Freeze** (`.exe`)
    * **Purpose:** The Ultimate System Shield.
